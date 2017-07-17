@@ -1,0 +1,13 @@
+fa708c85c151a2ddcf48dc2984832098 *DESCRIPTION
+113616f94a1e32fe90fac9690572d537 *LICENSE
+d165aac1d8db8216d9abbcb961e5418c *NAMESPACE
+dba21a73ca2ab3256bf1a8e2da029d74 *R/constants.R
+9566e8cf27951c1750cb2cdf1804e37f *README.md
+09c081ff922ec44f8f783d237e36d1f9 *build/partial.rdb
+cce6199e9a10bf5818745c5fdd033fa7 *data/codata.rda
+75b79fe5d950fafb7e6116434972eda8 *man/codata.Rd
+66416d636656e34c3a1cbab444e1ea35 *man/constants.Rd
+606037bf5d99a341b3b337bb9a58c5a2 *man/lookup.Rd
+56335ccf5865b3d839711b8705b42fd7 *man/syms.Rd
+4a8da742f4a69520a9195269da7ff67b *tests/testthat.R
+f6b04104d4bfb787e3b34be699f1a1cd *tests/testthat/test-constants.R
