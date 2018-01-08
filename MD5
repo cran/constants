@@ -1,10 +1,11 @@
-fa708c85c151a2ddcf48dc2984832098 *DESCRIPTION
-113616f94a1e32fe90fac9690572d537 *LICENSE
+86ec56e104c3b298966e0cdab2ffef0e *DESCRIPTION
+845a02b6992029b5cbdddf1e7f149100 *LICENSE
 d165aac1d8db8216d9abbcb961e5418c *NAMESPACE
-dba21a73ca2ab3256bf1a8e2da029d74 *R/constants.R
-9566e8cf27951c1750cb2cdf1804e37f *README.md
-09c081ff922ec44f8f783d237e36d1f9 *build/partial.rdb
-cce6199e9a10bf5818745c5fdd033fa7 *data/codata.rda
+ecb2ceed290e958609fca6277490a1b3 *NEWS.md
+0309aef538d6e5a6442b878cc887e647 *R/constants.R
+5b4dd27fa3474ca083d8ad9cbf8ab6fa *README.md
+5059341ecb3dd0a78a4c75b68c4b22f0 *build/partial.rdb
+c3679b0f49b4c745063bba1b565c79c5 *data/codata.rda
 75b79fe5d950fafb7e6116434972eda8 *man/codata.Rd
 66416d636656e34c3a1cbab444e1ea35 *man/constants.Rd
 606037bf5d99a341b3b337bb9a58c5a2 *man/lookup.Rd
