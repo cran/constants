@@ -1,10 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# constants: Reference on Constants, Units and Uncertainty
+# <img src="https://avatars1.githubusercontent.com/u/32303769?s=40&v=4"> constants: Reference on Constants, Units and Uncertainty
 
 [![Build
-Status](https://travis-ci.org/r-quantities/constants.svg?branch=master)](https://travis-ci.org/r-quantities/constants)
+Status](https://github.com/r-quantities/constants/workflows/build/badge.svg)](https://github.com/r-quantities/constants/actions)
+[![Coverage
+Status](https://codecov.io/gh/r-quantities/constants/branch/master/graph/badge.svg)](https://codecov.io/gh/r-quantities/constants)
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/constants)](https://cran.r-project.org/package=constants)
 [![Downloads](https://cranlogs.r-pkg.org/badges/constants)](https://cran.r-project.org/package=constants)
 
@@ -22,9 +24,9 @@ published on May 2019.
 > Eite Tiesinga, Peter J. Mohr, David B. Newell, and Barry N. Taylor
 > (2020). The 2018 CODATA Recommended Values of the Fundamental Physical
 > Constants (Web Version 8.1). Database developed by J. Baker, M. Douma,
-> and S. Kotochigova. Available at <http://physics.nist.gov/constants>,
-> National Institute of Standards and Technology, Gaithersburg, MD
-> 20899.
+> and S. Kotochigova. Available at
+> <https://physics.nist.gov/cuu/Constants/>, National Institute of
+> Standards and Technology, Gaithersburg, MD 20899.
 
 ## Installation
 
